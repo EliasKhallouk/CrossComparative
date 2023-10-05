@@ -1,3 +1,6 @@
+During our time at university, my team and I were tasked with creating a website to compare different companies, without using Bootstrap.
+
+
 Titre du projet : CrossComparative
 
 Etudiant 1 (référent du groupe) :  [Elias Khallouk](mailto:elias.khallouk@edu.univ-fcomte.fr?subject=SAE_1_05_06)<br>
